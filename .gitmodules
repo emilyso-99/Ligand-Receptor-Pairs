@@ -1,3 +1,18 @@
 [submodule "CellChat"]
 	path = CellChat
 	url = https://github.com/sqjin/CellChat.git
+[submodule "Connectome"]
+	path = Connectome
+	url = https://github.com/msraredon/Connectome.git
+[submodule "NATMI"]
+	path = NATMI
+	url = https://github.com/asrhou/NATMI.git
+[submodule "SingleCellSignalR"]
+	path = SingleCellSignalR
+	url = https://github.com/SCA-IRCM/SingleCellSignalR_v1.git
+[submodule "iTALK"]
+	path = iTALK
+	url = https://github.com/Coolgenome/iTALK.git
+[submodule "NicheNet"]
+	path = NicheNet
+	url = https://github.com/saeyslab/nichenetr.git
