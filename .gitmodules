@@ -16,3 +16,6 @@
 [submodule "NicheNet"]
 	path = NicheNet
 	url = https://github.com/saeyslab/nichenetr.git
+[submodule "lit_pairs"]
+	path = lit_pairs
+	url = https://github.com/LewisLabUCSD/Ligand-Receptor-Pairs.git
