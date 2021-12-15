@@ -1,0 +1,3 @@
+[submodule "CellChat"]
+	path = CellChat
+	url = https://github.com/sqjin/CellChat.git
